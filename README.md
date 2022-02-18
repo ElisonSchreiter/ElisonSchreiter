@@ -12,6 +12,6 @@ Some information about me:
 - 💬 Ask me about anything
 - 📫 How to reach me: instagram: elison_schreiter
 - ⚡ Fun fact: I have interacted with computers for more than 12
-- :brazil: Nationality: Brazilian
+- :flag_br: Nationality: Brazilian
 
 Let's be better!
