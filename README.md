@@ -5,7 +5,7 @@ Hope you like it! 😸
 
 Some information about me:
 
-- 🔭 I’m currently working on in my house, learning to program
+- 🔭 I’m currently learning to program
 - 🌱 I’m currently learning HTML, CSS and JavaScript 
 - 👯 I’m looking to collaborate on groups of devs
 - 🤔 I’m looking for help with my learning
