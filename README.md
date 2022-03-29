@@ -10,8 +10,8 @@ Some information about me:
 - 👯 I’m looking to collaborate on groups of devs
 - 🤔 I’m looking for help with my learning
 - 💬 Ask me about anything
-- 📫 How to reach me: instagram: elison_schreiter
-- ⚡ Fun fact: I have interacted with computers for more than 12
+- 📫 How to reach me; instagram: elison_schreiter
+- ⚡ Fun fact: I have interacted with computers for more than 12 years
 - 🇧🇷 Nationality: Brazilian
 
 Let's be better!
