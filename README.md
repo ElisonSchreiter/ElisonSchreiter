@@ -10,8 +10,7 @@ Some information about me:
 - 👯 I’m looking to collaborate on groups of devs
 - 🤔 I’m looking for help with my learning
 - 💬 Ask me about anything
-- 📫 How to reach me: email to: elison_s_santos@live.com
-- ⚡ Fun fact: I have interacted with computers for more than 12 years
+- ⚡ Fun fact: I've been tinkering with computers since I was a child.
 - 🇧🇷 Nationality: Brazilian
 
 Let's be better!
